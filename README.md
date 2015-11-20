@@ -13,10 +13,10 @@ hard:
 https://www.airpair.com/javascript/node-js-tutorial
 
 
-＃what I am doing ?
+#what I am doing ?
 
 Learning one module everyday
 
-# semester goal
+#semester goal
 
 http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/
