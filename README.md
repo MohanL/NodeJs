@@ -18,9 +18,8 @@ https://www.airpair.com/javascript/node-js-tutorial
 Learning one module everyday
 
 #semester goal
-
-http://techprd.com/how-to-develop-a-responsive-node-js-express-website-using-bootstrap/
+web app
 
 
 #Book
-Node js the right way   143
+Node js the right way   143 too hard
