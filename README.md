@@ -18,11 +18,4 @@ hard:
 
 #what I am doing ?
 
-Learning one module everyday
-
-#semester goal
-web app
-
-
-#Book
-Node js the right way   143 too hard
+learnyounode exercises finished 
