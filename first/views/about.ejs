@@ -1,0 +1,20 @@
+<!--
+embedded js
+<%=   %> put variables in there
+<%   %> would just be js
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+</head>
+<body>
+<P> here include a header template</P>
+<% include templates/header.ejs %>
+
+<h1>About</h1>
+
+<p> Hi, my name is <%= name %>, bye</p>
+</body>
+</html>

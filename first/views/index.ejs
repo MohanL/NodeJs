@@ -1,0 +1,27 @@
+<!--
+embedded js
+<%= %> put variables in there
+<% %> would just be js
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <p> here includes a header template</p>
+    <% include templates/header.ejs %>
+
+    <h1> About </h1>
+
+    <p> whatever you dumbass</p>
+
+    <ul>
+      <%for(var i = 0;i<5;i++){%>
+        <li>heh</li>
+      <%}%>
+
+    </ul>
+  </body>
+</html>
